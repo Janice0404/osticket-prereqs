@@ -31,8 +31,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://user-images.githubusercontent.com/116759326/198855844-bb48768b-5f48-4ad2-b9ae-efaf5c95e06f.jpg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>![Step 1]![Step 1](https://user-images.githubusercontent.com/116759326/198855844-bb48768b-5f48-4ad2-b9ae-efaf5c95e06f.jpg)
   
-  ![Step 2](https://user-images.githubusercontent.com/116759326/198855885-6ef267d6-f701-4e2f-a25d-d14c6ae313cf.jpg)
-![Step 3](https://user-images.githubusercontent.com/116759326/198855891-2f043756-8056-457f-bf0e-a22f3d97e2c7.jpg)
 
 
 <p>
@@ -47,7 +45,7 @@ The first step to Os Ticket system will be to ensure you download all required p
 <br />
 
 <p>
-<<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>![Step 2](https://user-images.githubusercontent.com/116759326/198847682-469ec878-2663-40f7-b52c-dc479ae343ae.jpg)
+<<img src="(https://user-images.githubusercontent.com/116759326/198847682-469ec878-2663-40f7-b52c-dc479ae343ae.jpg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>![Step 2](https://user-images.githubusercontent.com/116759326/198847682-469ec878-2663-40f7-b52c-dc479ae343ae.jpg)
 
 </p>
 <p>
