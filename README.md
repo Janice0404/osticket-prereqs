@@ -54,8 +54,9 @@ The next step would be to choose  the correct prerequisite down the zip file for
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>![Step 3](https://user-images.githubusercontent.com/116759326/198851364-44a7efd2-bec6-42a3-b1e0-5c1bdd063c45.jpg)
+<img src="(https://user-images.githubusercontent.com/116759326/198847682-469ec878-2663-40f7-b52c-dc479ae343ae.jpg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>![Step 3](https://user-images.githubusercontent.com/116759326/198851364-44a7efd2-bec6-42a3-b1e0-5c1bdd063c45.jpg)
   
+
 
 </p>
 <p> Once this step has been completed you can then select browse 80, which will then open Os ticket. You will then need to select enable PHP extensions, then you will go in and manually enable all required prerequisite and then go to refresh and all extensions will be added. Then you will click continue. Next step you will go back into wwwroot to complete the Os ticket config, go into os ticket / include, look for ost sample config, copy the file and rename osconfig php, then go back to os ticket and click contiune. You will have to get the proper permission which you will go to osconfig php right click and go to properties and security users and click edit  click allow for full control and apply and then ok and exit out of that. Click contiune and then fill out the demographic information to create a Os ticket admin account. Click a new session called os ticket, your user will be be root and use your same password that you used for  web platform installer.Now your database will be created for os tickets .The database settings has five required boxes that must be filled . My sql prefix would be ost, MySQL Hostname would be localhost, MySQL Database would be os ticket, MySQL username would be root, and MySQL passwpord would be same password used while creating account. 
