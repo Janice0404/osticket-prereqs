@@ -52,9 +52,10 @@ The next step would be to choose  the correct prerequisite down the zip file for
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>![Screenshot_20221029-153532_YouTube](https://user-images.githubusercontent.com/116759326/198850215-cd07cfca-9d6c-48fa-93f3-0f7e63e27655.jpg)
+
 </p>
-<p> Once this step has been completed you can then selct browse 80, which will then open Os ticket.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> Once this step has been completed you can then selct browse 80, which will then open Os ticket. You will then need to select enable PHP extensions, then you will go in and manually enable all required prerequisite and then go to refresh and all extensions will be added. Then you will click continue. Next step you will go back into wwwroot to complete the Os ticket config, go into os ticket / include, look for ost sample config, copy the file and rename osconfig php, then go back to os ticket and click contiune. You will have to get the proper permission which you will go to osconfig php right click and go to propties and securityusers and click edit  click allow for full control and apply and then ok and exit out of that.
+
 </p>
 <br />
