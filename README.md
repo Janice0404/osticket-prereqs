@@ -52,7 +52,8 @@ The next step would be to choose  the correct prerequisite down the zip file for
 <br />
 
 <p>
-<img src="https://user-images.githubusercontent.com/116759326/198847682-469ec878-2663-40f7-b52c-dc479ae343ae.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![Step 3]https://user-images.githubusercontent.com/116759326/199028484-84154e81-954f-4212-b4ef-edc675832c7e.jpg
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 
 
