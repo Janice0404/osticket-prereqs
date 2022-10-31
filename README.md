@@ -43,7 +43,7 @@ The first step you will need to ensure that you create your virtual machine via 
 <br />
 
 <p>
-<<img src="(https://user-images.githubusercontent.com/116759326/198847682-469ec878-2663-40f7-b52c-dc479ae343ae.jpg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>![Step 2](https://user-images.githubusercontent.com/116759326/198847682-469ec878-2663-40f7-b52c-dc479ae343ae.jpg)
+<<img src="https://user-images.githubusercontent.com/116759326/198847682-469ec878-2663-40f7-b52c-dc479ae343ae.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
@@ -52,7 +52,7 @@ The next step would be to choose  the correct prerequisite down the zip file for
 <br />
 
 <p>
-<img src="(https://user-images.githubusercontent.com/116759326/198847682-469ec878-2663-40f7-b52c-dc479ae343ae.jpg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>![Step 3](https://user-images.githubusercontent.com/116759326/198851364-44a7efd2-bec6-42a3-b1e0-5c1bdd063c45.jpg)
+<img src="https://user-images.githubusercontent.com/116759326/198847682-469ec878-2663-40f7-b52c-dc479ae343ae.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 
 
